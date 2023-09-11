@@ -124,7 +124,7 @@ const Projects = () => {
                       Github{" "}
                       <span>
                         <a
-                          href="https://github.com/mirzaAsca/portfolio"
+                          href="https://github.com/emirasceric/portfolio"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -169,7 +169,7 @@ const Projects = () => {
                       Github{" "}
                       <span>
                         <a
-                          href="https://github.com/mirzaAsca/country"
+                          href="https://github.com/emirasceric/drzave"
                           target="_blank"
                           rel="noopener noreferrer"
                         >

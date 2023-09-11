@@ -10,8 +10,8 @@ const Tech = () => {
     "https://i.ibb.co/2NkpLbR/f-3-Ix1i87-Tm-P4kqfl-Uj-GAt2-Xv-Kc-Bya-So-RC.png",
     "https://i.ibb.co/rbHCLCr/react-js-logo-no.jpg",
     "https://res.cloudinary.com/practicaldev/image/fetch/s--e_rqeB7o--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/2400/1*FPtQLT2Zk-baHficCz_mXQ.png",
-    "https://img.freepik.com/free-icon/snakes_318-368381.jpg",
-    "https://www.kindpng.com/picc/m/744-7444441_selenium-hd-png-download.png",
+    
+    
   ];
 
   const imageUrls2 = [
